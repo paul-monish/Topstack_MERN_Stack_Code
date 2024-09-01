@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "JSON SERVERxcxc",
+      "author": "foo",
+      "id": "1"
+    },
+    {
+      "title": "REACT",
+      "author": "facebook",
+      "id": "2"
+    },
+    {
+      "id": "c02a",
+      "title": "rmrn123",
+      "author": "rrr123"
+    }
+  ]
+}
